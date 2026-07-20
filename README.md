@@ -26,10 +26,12 @@ Solved DSA questions
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -51,4 +53,8 @@ Solved DSA questions
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
