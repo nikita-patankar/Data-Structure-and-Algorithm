@@ -11,6 +11,7 @@ Solved DSA questions
 | [0042-trapping-rain-water](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0238-product-of-array-except-self](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,8 @@ Solved DSA questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
