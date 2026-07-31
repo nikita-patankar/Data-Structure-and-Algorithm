@@ -12,6 +12,7 @@ Solved DSA questions
 | [0056-merge-intervals](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Solved DSA questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -62,4 +64,5 @@ Solved DSA questions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
