@@ -12,6 +12,7 @@ Solved DSA questions
 | [0056-merge-intervals](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -19,6 +20,7 @@ Solved DSA questions
 | [0018-4sum](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0287-find-the-duplicate-number](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +54,7 @@ Solved DSA questions
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -65,4 +68,8 @@ Solved DSA questions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
