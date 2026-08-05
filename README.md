@@ -9,6 +9,7 @@ Solved DSA questions
 | [0018-4sum](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
@@ -58,6 +59,7 @@ Solved DSA questions
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 ## Sliding Window
 |  |
@@ -72,4 +74,8 @@ Solved DSA questions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
