@@ -4,18 +4,20 @@ class Solution {
         int m = matrix.length;
         int n = matrix[0].length;
 
-        for (int row = 0; row < m; row++) {
+        int row = 0;
+        int col = n-1 ;
 
-            for (int col = 0; col < n; col++) {
-
-                if (matrix[row][col] == target)
-                    return true;
-
-                if (matrix[row][col] > target)
-                    break;      // go to next row
-            }
+        while (row < m && col >= 0){
+           if(matrix[row][col] == target){
+            return true;
+           } 
+           else if (matrix[row][col] > target){
+            col--;
+           }
+           else {
+            row ++;
+           }
         }
-
         return false;
     }
 }
