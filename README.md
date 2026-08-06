@@ -13,6 +13,7 @@ Solved DSA questions
 | [0056-merge-intervals](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -68,6 +69,7 @@ Solved DSA questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,4 +87,20 @@ Solved DSA questions
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
