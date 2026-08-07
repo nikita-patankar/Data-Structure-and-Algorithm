@@ -23,6 +23,7 @@ Solved DSA questions
 | [0018-4sum](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -40,6 +41,7 @@ Solved DSA questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
