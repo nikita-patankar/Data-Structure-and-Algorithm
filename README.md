@@ -17,6 +17,7 @@ Solved DSA questions
 | [0240-search-a-2d-matrix-ii](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Solved DSA questions
 | [0074-search-a-2d-matrix](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
 | ------- |
@@ -107,4 +109,8 @@ Solved DSA questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nikita-patankar/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
